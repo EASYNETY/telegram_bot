@@ -1,0 +1,10 @@
+TOKEN = bot token
+DB_URL = mongo d url
+API_TOKEN = api token
+CATEGORY_URL= https://ecom-prod.qosic.com/api/v1/categories
+MERCHANT_PRODUCT = https://ecom-prod.qosic.com/api/v1/products?merchant_id
+MERCHANT_ID = qos merchant id
+CHECKOUT_INIT = https://b-card.qosic.net/public/v1/initTransaction
+TRANSACTION_STATUS = http://staging.qosic.net:9010/QosicBridge/user/gettransactionstatus
+REQUEST_PAYEMENT = http://staging.qosic.net:9010/QosicBridge/user/requestpayment
+MERCHANT_TOKEN = Basic qos momo merchant token
